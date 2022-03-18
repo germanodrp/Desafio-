@@ -131,6 +131,7 @@ namespace Desafio.Controllers
         [Route("api/v1/cliente/{cpf}")]
         public ActionResult<string>ClienteDeletar(string cpf)
         {
+            
             var cliente = Lista.FirstOrDefault(c => c.Cpf == cpf);
             if (Lista.Remove(cliente!) == false)
             {

@@ -726,11 +726,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\germano.pereira\\source\\repos\\Desafio\\Desafio\\Desafio.csproj",
+      "projectUniqueName": "C:\\Users\\germano.pereira\\OneDrive - GRUPO BIT\\Área de Trabalho\\DesafioDocker\\Desafio-\\Desafio\\Desafio.csproj",
       "projectName": "Desafio",
-      "projectPath": "C:\\Users\\germano.pereira\\source\\repos\\Desafio\\Desafio\\Desafio.csproj",
+      "projectPath": "C:\\Users\\germano.pereira\\OneDrive - GRUPO BIT\\Área de Trabalho\\DesafioDocker\\Desafio-\\Desafio\\Desafio.csproj",
       "packagesPath": "C:\\Users\\germano.pereira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\germano.pereira\\source\\repos\\Desafio\\Desafio\\obj\\",
+      "outputPath": "C:\\Users\\germano.pereira\\OneDrive - GRUPO BIT\\Área de Trabalho\\DesafioDocker\\Desafio-\\Desafio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\germano.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",

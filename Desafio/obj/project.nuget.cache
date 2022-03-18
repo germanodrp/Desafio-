@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Usn61MS4PtYZ9CSvxfmT6AWxTayroldQtl0Oo4XRDJ1uC1uOi/X8rGTR4Eb4oYbWSpS4tmkDBlCJIu27GL8e1g==",
+  "dgSpecHash": "efmbTeTNapYGtsGXVaybpg7ws+rmqTNEbj57wEAVf4rkzHJQYZHAKK/SuzC/quO8AsiknA0nw3DDtqJIW+hSig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\germano.pereira\\source\\repos\\Desafio\\Desafio\\Desafio.csproj",
+  "projectFilePath": "C:\\Users\\germano.pereira\\OneDrive - GRUPO BIT\\Área de Trabalho\\DesafioDocker\\Desafio-\\Desafio\\Desafio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\germano.pereira\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.2\\microsoft.entityframeworkcore.6.0.2.nupkg.sha512",
     "C:\\Users\\germano.pereira\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.2\\microsoft.entityframeworkcore.abstractions.6.0.2.nupkg.sha512",
